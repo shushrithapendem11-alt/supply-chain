@@ -1,0 +1,4 @@
+part,breakeven_units,expected_annual_volume,make_total_cost,buy_total_cost,recommendation,chart
+Part-A101,7042.0,4000,49800.0,39000.0,BUY,outputs/make_vs_buy_Part-A101.png
+Part-B202,18182.0,12000,97200.0,76800.0,BUY,outputs/make_vs_buy_Part-B202.png
+Part-C303,N/A (make always cheaper),2500,36500.0,21250.0,BUY,outputs/make_vs_buy_Part-C303.png

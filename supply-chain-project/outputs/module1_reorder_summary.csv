@@ -1,0 +1,4 @@
+product,avg_daily_demand,safety_stock_units,reorder_point_units,assumed_lead_time_days,chart
+Part-A101,135.4,83.7,1980.0,14,outputs/forecast_Part-A101.png
+Part-B202,144.0,79.7,2095.2,14,outputs/forecast_Part-B202.png
+Part-C303,115.5,83.1,1700.5,14,outputs/forecast_Part-C303.png
